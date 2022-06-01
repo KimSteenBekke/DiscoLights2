@@ -1,4 +1,4 @@
-# **DiscoLights**
+# **DiscoLights3**
 
 ## **Description of the project:**
 
